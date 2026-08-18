@@ -1,0 +1,187 @@
+                                           DEVICE NAME: OPPOA37F
+                                           MODEL NUMBER :A37F
+                                           ANDROID VERSION :5.1.1
+
+1.Verify whatsapp composer's design should open in all os and browsers.
+2.Verify massage box visible or not.
+3.Verify emoji , attachment and camara icons visible or not,.
+4.Verify recording button visible or not.
+5.Verify when click on massage box than composer box should display or not.
+6.Verify when press on device's back button than composer box should disappear or not.
+7.Verify system working in landscap mode or not.
+8.Verify when we close system,than it should remain same while we reopen it.
+9.Verify switchoff device while massages than it should remain same when we swich on the device.
+10.Verify min length of massage box.
+11.Verify max length of massage box.
+12.Verify null value for massage box.
+13.Verify junk character for massage box.
+14.Verify all numeric value for massage box.
+15.Verify when we start to writting than camera icon visibl or not.
+16.Verify when we start to writting than recording button is converting in to send button or not.
+17.Verify send button working properly or not.
+18.Verify after sending massage send button converted in to recording button or not.
+19.Verify when network is poor than system is working or not.
+20.Verify trim function should allow or not for massage box.
+21.Verify when we click on recording button it should display pop up massage or not.
+22.Verify when front camera is not available.
+23.Verify when rear camera is not available.
+24.Verify quality of picture for camera.
+25.Verify we click on emoji button than dislay should saw a differnt emojies box.
+26.Verify when we select particuler emoji than that particuler emoji display in massage box or not.
+27.Verify when we select multiple emojis.
+28.Verify when we click on emoji button than it symbol should convert in another symbol.
+29.Verify we select human emoji than it should dispaly differnt emojis in different colour combination or not.
+30.Verify in emoji box , serch box,gif,stickers buttons working properly or not.
+31.Verify when we write in serch box of emoji box than it shuold display text related emoji or not.
+32.Verify when we click on gif button than display should saw different gifs.
+33.Verify when we selected mutiple gifs.
+34.Verify when we click on sticker than display should saw a different stickers.
+35.Verify when we selected multiple stickers.
+36.Verify back button working properly or not.
+37.Verify horizontal scrolling working properly or not for both left & right side.
+38.Verify vertical scrolling working properly or not for both up & down side.
+39.Verify when we select any emoji than it should focus on it.
+40.Verify used emoji are shown or not in used emoji icon.
+41.Verify copy,paste allow or not.
+42.Verify cut,paste allow or not.
+43.Verify when we writting in massage box than someone is calling you.
+44.Verify when we reclick on emoji button than emoji box should disappear or not.
+45.Verify when we click on attachment button display should saw a attachment box or not.
+46.Verify when we clik on back button of device than attachment box should disappear or not.
+47.Verify document button of attachment box working properly or not.
+48.Verify when we click on document button than display should saw a differnt documents or not.
+49.Verify max size of document.
+50.Verify min size of document,
+51.Verify when we select virus file document,
+52.Verify when we select document than it should focus on it.
+53.Verify all icon of attachment visible or not with their logo.
+54.Verify when we click on camara icon of attachment box,than display should saw camera,flesh & video button.
+55.Verify camera,flesh & video button work properly or not.
+56.Verify camera button should saw a scrollbar with gallary images.
+57.Verify we can send status with the help of gallary images or not.
+58.Verify image resolution is perfact or not.
+59.Verify on & off function is working properly or not of flash button.
+60.Verify max resoluton of camera.
+61.Verify min resoluton of camera.
+62.Verify min size of images.
+63.Verify max size of images.
+64.Verify video button working properly or not.
+65.Verify min video capicity of working on video button.
+66.Verify max video capicity of workig on video button.
+67.Verify when we press for empty image,it becomes status.
+68.Verify when we hold round button in camara it should converted in video button.
+69.Verify massage box camera & attachment camera should working same or not.
+70.Verify when we select multiple images.
+71.Verify when we click on gallary button of attachment box it should display photo gallary or not.
+72.Verify when we hold massage box than it should display pop up massage or not.
+73.Verify when we open perticuler  image folder than it should allow to open that perticuler image folder.
+74.Verify min photo sending capicity of gallary module.
+75.Verify max photo sending capicity of gallary module.
+76.Verify corrupt image allow or not.
+77.Verify when we select any image in gallary than image should saw right symbol with focus or nor.
+78.Verify when we click on audio button than display should saw 3 module in it or not.
+79.Verify all buttons working properly or not of audio module.
+80.Verify when we click on select song module,display should saw list of songs or not.
+81.Verify when we click on particuler song than it should play or not.
+82.Verify when we reclick on that perticuler song than it should off or not.
+83.Verify when we select perticuler song than it sholud send that song or not.
+84.Verify song is play or not with slient function on of device.
+85.Verify sound quality remain same or not.
+86.Verify when we selected multiple songs.
+87.Verify min length of music track for sending.
+88.Verify max length of music track for sending.
+89.Verify we click on sound recorder than display should saw recording system.
+90.Verify min recording capicity of recoder.
+91.Verify max recording capicity of recorder.
+92.Verify recording function working properly or not.
+93.Verify recordng saved or not in device.
+94.Verify pause function available or not.
+95.Verify when we click on center button recorder module than it should start or not of recording.
+96.Verify sound quality of recorder.
+97.Verify time duration visible or not in recorder.
+98.Verify system woking off line or not.
+99.Verify when we click on location button than display should saw location map or not.
+100.Verify when we enter invalid address.
+101.Verify when we click on contacts module than display shuold saw contacts list or not.
+102.Verify all contacts visible or not.
+103.Verify all contacs are in A TO Z order or not.
+104.Verify serch box working properly or not.
+105.Verify we enter invalid contacts than display should saw a validation massage.
+106.Verify trim fuction allow or not for contacts serchbox.
+107.Verify junk charecter allow or not for contacts serchbox.
+108.Verify when we select multiple contacts.
+109.Verify when we click on round button than dispay should saw atlest one contact selected.
+110.Verify when we select perticuler contact than it should focus on it with correct sign.
+111.Verify blank profile images visible or not with contacts.
+112.Verify numeric & alphabet keypad available or not of input keyboad of composser.
+113.Verify when we click on numeric value than alphabet keypad will converted in numericalkey board.
+114.Verify when we click on alphabet than numeric keypad will converted in alphabet key board.
+115.Verify when we hold on space button than it converted in recording button.
+116.Verify click on up arrow button than it should change capital and small letters.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

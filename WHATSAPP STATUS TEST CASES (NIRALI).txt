@@ -1,0 +1,51 @@
+1.Verify design for all os & browsers.
+2.Verify status notification with dot symbol.
+3.Verify when we open status module it should display my status,recent updates & viewe updates.
+4.Verify status symbol is visible or not.
+5.Verify when we click on status than we close system,it shoud ridrect same page.
+6.Verify mystatus icon should saw with profile photo properly.
+7.Verify we send a status with help of click on mystatus icon.
+8.Verify when we click on mystatus button it should dispaly with camera,flesh & video icon.
+9.Verify camera,flesh & video button work properly or not.
+10.Verify my status should saw a scrollbar with gallary images.
+11.Verify we can send status with the help of gallary images or not.
+12.Verify image resolution is perfact or not.
+13.Verify when rear camera is not available.
+14.Verify when front camera is not available.
+15.Verify on & off function is working properly or not of flash button.
+16.Verify max resoluton of camera.
+17.Verify min resoluton of camera.
+18.Verify min size of images.
+19.Verify max size of images.
+20.Verify video button working properly or not.
+21.Verify min video capicity of working on video button.
+22.Verify max video capicity of workig on video button.
+23.Verify when we press for empty image,it becomes status.
+24.Verify when we press back button on my status page,it should redirect on require page.
+25.Verify when process is on & device get off.
+26.Verify when process is on & network is very slow.
+27.verify system should open or not with offline facility.
+28.Verify written status icon & camera icon visible or not.
+29.Verify status sending process is on than on that time some one is calling you...than systym should stop process of sending status or not.
+30.Verify when click on written status icon,it should display with necessary symbols and send button.
+31.Verify  in written status icon necessary symbols working properly or not.
+32.Verify empty written status should allow or not.
+33.Verify keyboard box of system working properly or not.
+34.Verify when we press back button of written status module,than keyboard box ofsystem should disappear.
+35.Verify when we send status than it should display properly or not.
+36.Verify send status visible to all person or not.
+37.Verify in written status module,click on imogi symbol,it dispaly different types of imogi or not.
+38.Verify camera module working properly or not.
+39.Verify system should allow visible or not status to watch multiple times during the validation time.
+40.Verify system should saw visible & not visible status with thair time.
+41.Verify system should allow or not visible or not status to watch multiple times after the validation time finished.
+42.Verify when process in on than device s memory is full.
+43.Verify status should saw or not contacts which are you saved in your device.
+44.Verify recent update status should saw a border on circle.
+45.Verify when we see status ,system should allow them to stop or not.
+46.Verify when wes see status,system should saw a scroll function of reply module.
+47.Verify when we scroll up than it should appear properly in system.
+48.Verify when we scroll down than it should dissappear in system.
+49.Verify reply function working properly or not.
+50.Verify delet function working properly or not.
+51.Verify system should saw eye symbol for status visible person or not. 
